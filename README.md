@@ -30,5 +30,5 @@ This project is licensed under the terms of the MIT License.See [LICENSE](LICENS
 ***
 
 <p align="center">
-  Looking forward to your  Star!
+  Looking forward to your ⭐️ Star!
 </p>
