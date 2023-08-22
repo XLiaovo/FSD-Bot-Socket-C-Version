@@ -24,10 +24,17 @@ You may need to link against the appropriate library when compiling.
 ## Usage
 
 1. Configure the user settings in the program.
-
 2. Build and run the program using a C++ compiler.
-
 3. The program will establish a connection to the FSD server and start monitoring relevant events.
+
+## Languages
+
+- [Python Version](https://github.com/XLiaovo/FSD-Bot-Socket-Python-Version
+)
+- [C++ Version](https://github.com/XLiaovo/FSD-Bot-Socket-Cpp-Version
+)
+- [Go Version](https://github.com/XLiaovo/FSD-Bot-Socket-Golang-Version
+)
 
 ## License
 
