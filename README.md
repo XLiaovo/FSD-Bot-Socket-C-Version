@@ -7,6 +7,12 @@
 
 This repository contains the C++ version of the FSD-Bot-Socket program.    Compile and run the program to start monitoring flight simulation activities.
 
+## Features
+
+- **Real-time Monitoring**: The program establishes a connection to the FSD server and monitors activities such as ATC controllers and pilots logging in and out.
+
+- **Interactive Responses**: Based on server messages, you can implement custom functionality when an ATC controller or pilot goes online or offline. This makes it a versatile tool for managing flight simulation sessions.
+
 ## Dependencies
 
 Before compiling the program, make sure you have the required libraries and headers:
